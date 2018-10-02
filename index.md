@@ -21,7 +21,8 @@ _Further examples and reading_.
  
 ### Licencing.  
 - Why do we licence?   
-- Who are we licencing to?   
+- Who are we licencing to?    
+   - Treefinder: Example of licence restriction based on [politics](https://en.wikipedia.org/wiki/Treefinder#Controversy).   
 * Couple of exercises:    
        • Whiteboard brainstorming exercise – what software licences have you heard of or come across?   
        • Allocate a licence to groups and get them to find a copy of it. Quick (3 min presentation of why
