@@ -22,3 +22,6 @@ It can be delivered as a packed afternoon or a more leisurely day-course.
 1. Attendees MUST have a Github account and a computer (e.g. laptop) with internet access.  
 2. Must know how to create and clone GH repos and have a basic knowledge of git.   
 3. Training room with OHP and Flipchart.  
+
+### Licence.  
+We encourage you to share and to build upon these materials hence the licence is __GNU General Public License v3.0__
