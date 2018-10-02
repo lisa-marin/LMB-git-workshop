@@ -31,5 +31,5 @@ it would/would not meet the needs of their software project)- (Ditch this one if
 • Practical - take a Flashcard. Look at the scenario printed on it - in your group discuss and decide upon
 which if any licence is best. (Quick report back if time}.  
  
- ### Course wrap-up
+### Course wrap-up
 * What have we learnt this afternoon?
