@@ -12,9 +12,9 @@
    * What do you like?   
    * what do you not like?   
 _Further examples and reading_.  
-[1](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).  
-[2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).  
-[3](https://github.com/matiassingers/awesome-readme) (Curated list of good READMEs).  
+[1 Gist template of a 'good' README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).  
+[2 Medium article: A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).  
+[3 Curated list of good READMEs](https://github.com/matiassingers/awesome-readme)  .  
 
 ### Bug fixing and continuous integration.  
 * Issue Trackers – GH helping you manage bugs (AP) & Continuous Integration?
