@@ -9,8 +9,8 @@
 ### Creating good READMEs
 * What makes a good README? (Discussion).  
 - (practical) Take an [example] (https://github.com/php-censor/php-censor ) and go through it.    
-* What do you like?   
-* what do you not like?   
+   * What do you like?   
+   * what do you not like?   
 _Further examples and reading_.  
 [1](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).  
 [2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).  
@@ -23,9 +23,9 @@ _Further examples and reading_.
 - Why do we licence?   
 - Who are we licencing to?   
 * Couple of exercises:    
-       • Whiteboard brainstorming exercise – what software licences have you heard of or come across?
+       • Whiteboard brainstorming exercise – what software licences have you heard of or come across?   
        • Allocate a licence to groups and get them to find a copy of it. Quick (3 min presentation of why
-it would/would not meet the needs of their software project)- (Ditch this one if time is short)
+it would/would not meet the needs of their software project)- (Ditch this one if time is short).  
 
 [Slides used from SoftwareSaved](https://softwaresaved.github.io/software-licensing-workshop/#/).  
 • Practical - take a Flashcard. Look at the scenario printed on it - in your group discuss and decide upon
