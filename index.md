@@ -8,7 +8,7 @@
 
 ### Creating good READMEs
 * What makes a good README? (Discussion).  
-- (practical/discussion) Take an [example] (https://github.com/php-censor/php-censor ) and go through it.    
+- (practical/discussion) Take an [example](https://github.com/php-censor/php-censor ) and go through it.    
    * What do you like?   
    * what do you not like?   
 _Further examples and reading_.  
