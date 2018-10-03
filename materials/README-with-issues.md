@@ -2,10 +2,10 @@
 
 Why am I a bad README? Find the errors to fix and the issues to improve me. Thanks!
 
-## Projet description
+## Project description
 
- ### Sub-tittle
+ ### Sub-title
 
-# Intallation instruction
+# Installation instructions
 
 - Usage
