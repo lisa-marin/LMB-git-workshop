@@ -14,10 +14,11 @@
 _Further examples and reading_.  
 [1 Gist template of a 'good' README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).  
 [2 Medium article: A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).  
-[3 Curated list of good READMEs](https://github.com/matiassingers/awesome-readme)  .  
+[3 Curated list of good READMEs](https://github.com/matiassingers/awesome-readme).  
 
-### Issue tracking.  
+### Issue tracking and continuous integration.  
 * [Issue Tracking](issue-tracking.html) – GH helping you manage bugs (AP)
+* [Practical - continuous integration](https://github.com/pajanne/simple-py-ci) - GH and Travis helping you test your code continuously
 
 ### Licencing.  
 - Why do we licence?   

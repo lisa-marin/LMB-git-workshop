@@ -11,7 +11,7 @@ Customised Git course.
 
 __Acknowledgements: This course utilises materials from a variety of sources__ .   
 * Github pages & wikis by [mfernandes61](https://github.com/mfernandes61).   
-* [Issue Tracking](issue-tracking.md) by [pajanne](https://github.com/pajanne).   
+* [Issue Tracking](issue-tracking.md) and continuous integration by [pajanne](https://github.com/pajanne).   
 * Licencing talk by [Software Sustainability Institute](https://www.software.ac.uk).  
 (The latter also contains the licencing scenarios which were printed out as cards for the practical e.g. amy.png)
 
