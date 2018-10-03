@@ -19,12 +19,19 @@ Issue-tracking systems fulfill different functions, in particular:
 
 ## GitHub Issues
 
-See screenshot images
+Create an issue
+
+![Image of issue](images/github-issue.png)
+
+Default associated labels
+
+![Image of labels](images/github-issue-labels.png)
+
 
 ## Practical
 
-Work in pair, either as collaborator on one repository or using pull request mechanism to improve a 'bad' README. 
-1. First, list all the issues related to the README you can find creating as many issues as you think necessary, 
+Work in pair, either as collaborator on one repository or using pull request mechanism to improve a 'bad' README.
+1. First, list all the issues related to the README you can find creating as many issues as you think necessary,
 1. then, prioritise these issues,
-1. assign the person in your team capable of solving some (spread the workload equaly between you) and 
+1. assign the person in your team capable of solving some (spread the workload equally between you) and
 1. finally try to solve the most import ones assigned to you.

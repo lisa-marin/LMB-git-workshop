@@ -1,6 +1,6 @@
 ## Git Workshop
 ### Afternoon session (13:30- 16:00).  
- 
+
 ### Github Web-pages
 [Practical - live-coding session using Markdown](https://mfernandes61.github.io/github_web_course/).  
 * Using Markdown to create a Github Page (practical - live-code a Page).  
@@ -16,9 +16,9 @@ _Further examples and reading_.
 [2 Medium article: A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).  
 [3 Curated list of good READMEs](https://github.com/matiassingers/awesome-readme)  .  
 
-### Bug fixing and continuous integration.  
-* Issue Trackers – GH helping you manage bugs (AP) & Continuous Integration?
- 
+### Issue tracking.  
+* [Issue Tracking](issue-tracking.html) – GH helping you manage bugs (AP)
+
 ### Licencing.  
 - Why do we licence?   
 - Who are we licencing to?    
@@ -31,7 +31,7 @@ it would/would not meet the needs of their software project)- (Ditch this one if
 [Slides used from SoftwareSaved](https://softwaresaved.github.io/software-licensing-workshop/#/).  
 • Practical - take a Flashcard. Look at the scenario printed on it - in your group discuss and decide upon
 which if any licence is best. (Quick report back if time}.  
- 
+
 ### Course wrap-up
 * What have we learnt this afternoon?    
 [Further reading: Github learning](https://lab.github.com/courses).   
