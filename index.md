@@ -18,7 +18,7 @@ _Further examples and reading_.
 
 ### Issue tracking and continuous integration.  
 * [Issue Tracking](issue-tracking.html) – GH helping you manage bugs (AP)
-* [Practical - continuous integration](https://github.com/pajanne/simple-py-ci) - GH and Travis helping you test your code continuously
+* [Demo - continuous integration](https://github.com/pajanne/simple-py-ci) - GH and Travis helping you test your code continuously
 
 ### Licencing.  
 - Why do we licence?   
