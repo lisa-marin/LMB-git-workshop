@@ -30,7 +30,7 @@ Default associated labels
 
 ## Practical
 
-Work in pair, either as collaborator on one repository or using pull request mechanism to improve a 'bad' README.
+Work in pair, either as collaborator on one repository or using pull request mechanism to improve a ['bad' README](https://raw.githubusercontent.com/bioinformatics-core-shared-training/LMB-git-workshop/master/materials/README-with-issues.md) that you need to add into your repository first.
 1. First, list all the issues related to the README you can find creating as many issues as you think necessary,
 1. then, prioritise these issues,
 1. assign the person in your team capable of solving some (spread the workload equally between you) and
